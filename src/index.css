@@ -3,3 +3,7 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.section {
+  background-color: #519D9E !important;
+}
