@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <div className="container">
           <h2>Countdown Timer</h2>
-          <CountdownTimer endDate={moment('02/28/2018')}/>
+          <CountdownTimer endDate={moment('12/31/2018')}/>
         </div>
       </div>
     );
